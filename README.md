@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 ### adicionar archivo
 > Haga click [aquí](notebookfelipe.ipynb) para **Descargar** el notebook
+
+libro en [nbviewer](http://nbviewer.jupyter.org/github/felipo71/MI-SITIO-WEB/blob/master/notebookfelipe.ipynb)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
